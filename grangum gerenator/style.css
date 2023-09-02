@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000;
+    color: #0096f3d5;
+    text-shadow: #000fff 5px ;
+    
+}
+
+p {
+    font-size: 20px;
+    box-shadow: 5px solid #111322;
+}
+
+input {
+    background: #0096f3d5;
+    color: #fff;
+    border: 2px solid #fff
+}
